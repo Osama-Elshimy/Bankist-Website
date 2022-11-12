@@ -1,5 +1,5 @@
 # Banksit-Website
-A simple website with some interested features created with HTML , CSS and JavaScript for learning purposes and to practice on (Advanced DOM and Events) with JavaScript
+A simple website with some interesting features created with HTML, CSS, and JavaScript for learning purposes and to practice (Advanced DOM and Events) with JavaScript
 
 # Features implemented in the website:
 - modal windows
